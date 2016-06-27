@@ -9,6 +9,6 @@ public class HelloWorldController {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
-		return "Success! The Framework Training template microservices is up and running";
+		return "Success! The Framework Training template microservices is up and running. Customised by Chris Scott - 27-Jun-2016";
 	}
 }
