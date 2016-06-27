@@ -72,4 +72,4 @@ To use this template you need to copy and then edit a few key files.
    $ curl http://localhost:8080
    Success! The Framework Training template microservices is up and running
    ```
-8. You can now import your new micro service project into your favourite IDE and start development
+8. You can now import your new micro service project into your favourite IDE and start development# microservices-test
